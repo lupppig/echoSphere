@@ -1,4 +1,4 @@
-# 🔮 Echo Sphere
+#  Echo Sphere
 
 A ball bounces inside a circle. That's it. That's the whole thing.
 
